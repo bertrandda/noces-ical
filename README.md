@@ -1,4 +1,4 @@
-# 🎊 noce-ical - Wedding anniversary Calendar Generator
+# 🎊 noces-ical - Wedding anniversary Calendar Generator
 
 A modern React application that allows you to easily generate a calendar file (.ics) containing all your wedding anniversary dates and associated names.
 
@@ -19,8 +19,8 @@ A modern React application that allows you to easily generate a calendar file (.
 ### Installation
 ```bash
 # Clone the project
-git clone https://github.com/bertrandda/noce-ical
-cd noce-ical
+git clone https://github.com/bertrandda/noces-ical
+cd noces-ical
 
 # Install dependencies
 npm install
@@ -67,7 +67,7 @@ The application is fully responsive and adapts to all screen types:
 ## 📦 Project Structure
 
 ```
-noce-ical/
+noces-ical/
 ├── src/
 │   ├── App.jsx          # Main component
 │   ├── App.css          # Application styles
