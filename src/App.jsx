@@ -19,8 +19,8 @@ function App() {
       const baseDate = new Date(selectedDate)
 
       const events = Object.keys(names).map(age => ({
-        title: `Anniversaire de mariage - Noces de ${names[age]}`,
-        description: `Anniversaire des ${age} ${Number(age) > 1 ? 'ans' : 'an'} de mariage. Noces de ${names[age]}`,
+        title: `${age}${Number(age) > 1 ? 'ème' : 'er'} Anniversaire de mariage - Noces de ${names[age].name} ${names[age].emoji}`,
+        description: `Anniversaire des ${age} ${Number(age) > 1 ? 'ans' : 'an'} de mariage. Noces de ${names[age].name} ${names[age].emoji}`,
         start: [
           baseDate.getFullYear() + Number(age),
           baseDate.getMonth() + 1,
@@ -42,7 +42,6 @@ function App() {
         return
       }
 
-      // Créer et télécharger le fichier
       const blob = new Blob([value], { type: 'text/calendar;charset=utf-8' })
       const url = window.URL.createObjectURL(blob)
       const link = document.createElement('a')
@@ -52,9 +51,6 @@ function App() {
       link.click()
       document.body.removeChild(link)
       window.URL.revokeObjectURL(url)
-
-      alert('Fichier ICS généré et téléchargé avec succès!')
-
     } catch (error) {
       console.error('Erreur:', error)
       alert('Erreur lors de la génération du fichier')
@@ -66,8 +62,8 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <h1>🎊 Générateur de calendrier de mariage</h1>
-        <p className="subtitle">Créez votre calendrier de mariage personnalisé</p>
+        <h1>🎊 Générateur de calendrier d'Anniversaires de mariage 🎊</h1>
+        <p className="subtitle">Ajoutez vos anniversaires de mariage à votre calendrier</p>
 
         <form className="wedding-form" onSubmit={(e) => e.preventDefault()}>
           <div className="form-group">
@@ -98,7 +94,7 @@ function App() {
           <h3>📋 Événements inclus</h3>
           <ul className="events-list">
             {Object.keys(names).map(age => (
-              <li key={age}>🎉 Anniversaire de mariage - Noces de {names[age]}</li>
+              <li key={age}>{age}{Number(age) > 1 ? 'ème' : 'er'} Anniversaire - Noces de {names[age].name} {names[age].emoji}</li>
             ))}
           </ul>
         </div>

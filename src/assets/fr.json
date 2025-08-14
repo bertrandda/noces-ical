@@ -1,102 +1,402 @@
 {
-    "1": "Coton",
-    "2": "Cuir",
-    "3": "Froment",
-    "4": "Cire",
-    "5": "Bois",
-    "6": "Chypre",
-    "7": "Laine",
-    "8": "Coquelicot",
-    "9": "Faïence",
-    "10": "Étain",
-    "11": "Corail",
-    "12": "Soie",
-    "13": "Muguet",
-    "14": "Plomb",
-    "15": "Cristal",
-    "16": "Saphir",
-    "17": "Rose",
-    "18": "Turquoise",
-    "19": "Cretonne",
-    "20": "Porcelaine",
-    "21": "Opale",
-    "22": "Bronze",
-    "23": "Béryl",
-    "24": "Satin",
-    "25": "Argent",
-    "26": "Jade",
-    "27": "Acajou",
-    "28": "Nickel",
-    "29": "Velours",
-    "30": "Perle",
-    "31": "Basane",
-    "32": "Cuivre",
-    "33": "Porphyre",
-    "34": "Ambre",
-    "35": "Rubis",
-    "36": "Mousseline",
-    "37": "Papier",
-    "38": "Mercure",
-    "39": "Crêpe",
-    "40": "Émeraude",
-    "41": "Fer",
-    "42": "Nacre",
-    "43": "Flanelle",
-    "44": "Topaze",
-    "45": "Vermeil",
-    "46": "Lavande",
-    "47": "Cachemire",
-    "48": "Améthyste",
-    "49": "Cèdre",
-    "50": "Or",
-    "51": "Camélia",
-    "52": "Tourmaline",
-    "53": "Merisier",
-    "54": "Zibeline",
-    "55": "Orchidée",
-    "56": "Buis",
-    "57": "Azalée",
-    "58": "Érable",
-    "59": "Olivier",
-    "60": "Diamant",
-    "61": "Platane",
-    "62": "Ivoire",
-    "63": "Lilas",
-    "64": "Astrakan",
-    "65": "Palissandre",
-    "66": "Jasmin",
-    "67": "Chinchilla",
-    "68": "Granit",
-    "69": "Mélèze",
-    "70": "Platine",
-    "71": "Ocre",
-    "72": "Titane",
-    "73": "Fonte",
-    "74": "Sienne",
-    "75": "Albâtre",
-    "76": "Zinc",
-    "77": "Silice",
-    "78": "Ébène",
-    "79": "Bambou",
-    "80": "Chêne",
-    "81": "Cornaline",
-    "82": "Grenat",
-    "83": "Vanille",
-    "84": "Iris",
-    "85": "Uranium",
-    "86": "Jaspe",
-    "87": "Psilocybe",
-    "88": "Pehuen",
-    "89": "Onyx",
-    "90": "Granite",
-    "91": "Héliodore",
-    "92": "Lys",
-    "93": "Lapis-lazuli",
-    "94": "Péridot",
-    "95": "Adansonia",
-    "96": "Potasse",
-    "97": "Tourmaline noire",
-    "98": "If",
-    "99": "Araucaria",
-    "100": "Eau"
+    "1": {
+        "name": "Coton",
+        "emoji": "🧵"
+    },
+    "2": {
+        "name": "Cuir",
+        "emoji": "👞"
+    },
+    "3": {
+        "name": "Froment",
+        "emoji": "🌾"
+    },
+    "4": {
+        "name": "Cire",
+        "emoji": "🕯️"
+    },
+    "5": {
+        "name": "Bois",
+        "emoji": "🌳"
+    },
+    "6": {
+        "name": "Chypre",
+        "emoji": "🌿"
+    },
+    "7": {
+        "name": "Laine",
+        "emoji": "🧶"
+    },
+    "8": {
+        "name": "Coquelicot",
+        "emoji": "🌺"
+    },
+    "9": {
+        "name": "Faïence",
+        "emoji": "🏺"
+    },
+    "10": {
+        "name": "Étain",
+        "emoji": "🥫"
+    },
+    "11": {
+        "name": "Corail",
+        "emoji": "🪸"
+    },
+    "12": {
+        "name": "Soie",
+        "emoji": "🧣"
+    },
+    "13": {
+        "name": "Muguet",
+        "emoji": "🌼"
+    },
+    "14": {
+        "name": "Plomb",
+        "emoji": "⚙️"
+    },
+    "15": {
+        "name": "Cristal",
+        "emoji": "💎"
+    },
+    "16": {
+        "name": "Saphir",
+        "emoji": "💙"
+    },
+    "17": {
+        "name": "Rose",
+        "emoji": "🌹"
+    },
+    "18": {
+        "name": "Turquoise",
+        "emoji": "💠"
+    },
+    "19": {
+        "name": "Cretonne",
+        "emoji": "🧵"
+    },
+    "20": {
+        "name": "Porcelaine",
+        "emoji": "🍽️"
+    },
+    "21": {
+        "name": "Opale",
+        "emoji": "🔮"
+    },
+    "22": {
+        "name": "Bronze",
+        "emoji": "🥉"
+    },
+    "23": {
+        "name": "Béryl",
+        "emoji": "🟢"
+    },
+    "24": {
+        "name": "Satin",
+        "emoji": "🧵"
+    },
+    "25": {
+        "name": "Argent",
+        "emoji": "🥈"
+    },
+    "26": {
+        "name": "Jade",
+        "emoji": "🟩"
+    },
+    "27": {
+        "name": "Acajou",
+        "emoji": "🪵"
+    },
+    "28": {
+        "name": "Nickel",
+        "emoji": "⚙️"
+    },
+    "29": {
+        "name": "Velours",
+        "emoji": "🧵"
+    },
+    "30": {
+        "name": "Perle",
+        "emoji": "🦪"
+    },
+    "31": {
+        "name": "Basane",
+        "emoji": "🐑"
+    },
+    "32": {
+        "name": "Cuivre",
+        "emoji": "🟠"
+    },
+    "33": {
+        "name": "Porphyre",
+        "emoji": "🪨"
+    },
+    "34": {
+        "name": "Ambre",
+        "emoji": "🟠"
+    },
+    "35": {
+        "name": "Rubis",
+        "emoji": "💎"
+    },
+    "36": {
+        "name": "Mousseline",
+        "emoji": "🧵"
+    },
+    "37": {
+        "name": "Papier",
+        "emoji": "📝"
+    },
+    "38": {
+        "name": "Mercure",
+        "emoji": "☿"
+    },
+    "39": {
+        "name": "Crêpe",
+        "emoji": "🥞"
+    },
+    "40": {
+        "name": "Émeraude",
+        "emoji": "💚"
+    },
+    "41": {
+        "name": "Fer",
+        "emoji": "🛠️"
+    },
+    "42": {
+        "name": "Nacre",
+        "emoji": "🐚"
+    },
+    "43": {
+        "name": "Flanelle",
+        "emoji": "🧣"
+    },
+    "44": {
+        "name": "Topaze",
+        "emoji": "💛"
+    },
+    "45": {
+        "name": "Vermeil",
+        "emoji": "🪙"
+    },
+    "46": {
+        "name": "Lavande",
+        "emoji": "💜"
+    },
+    "47": {
+        "name": "Cachemire",
+        "emoji": "🧣"
+    },
+    "48": {
+        "name": "Améthyste",
+        "emoji": "💜"
+    },
+    "49": {
+        "name": "Cèdre",
+        "emoji": "🌲"
+    },
+    "50": {
+        "name": "Or",
+        "emoji": "🥇"
+    },
+    "51": {
+        "name": "Camélia",
+        "emoji": "🌺"
+    },
+    "52": {
+        "name": "Tourmaline",
+        "emoji": "💠"
+    },
+    "53": {
+        "name": "Merisier",
+        "emoji": "🍒"
+    },
+    "54": {
+        "name": "Zibeline",
+        "emoji": "🐻"
+    },
+    "55": {
+        "name": "Orchidée",
+        "emoji": "🪻"
+    },
+    "56": {
+        "name": "Buis",
+        "emoji": "🌿"
+    },
+    "57": {
+        "name": "Azalée",
+        "emoji": "🌸"
+    },
+    "58": {
+        "name": "Érable",
+        "emoji": "🍁"
+    },
+    "59": {
+        "name": "Olivier",
+        "emoji": "🌿"
+    },
+    "60": {
+        "name": "Diamant",
+        "emoji": "💎"
+    },
+    "61": {
+        "name": "Platane",
+        "emoji": "🌳"
+    },
+    "62": {
+        "name": "Ivoire",
+        "emoji": "🐘"
+    },
+    "63": {
+        "name": "Lilas",
+        "emoji": "💜"
+    },
+    "64": {
+        "name": "Astrakan",
+        "emoji": "🐑"
+    },
+    "65": {
+        "name": "Palissandre",
+        "emoji": "🪵"
+    },
+    "66": {
+        "name": "Jasmin",
+        "emoji": "🌼"
+    },
+    "67": {
+        "name": "Chinchilla",
+        "emoji": "🐭"
+    },
+    "68": {
+        "name": "Granit",
+        "emoji": "🪨"
+    },
+    "69": {
+        "name": "Mélèze",
+        "emoji": "🌲"
+    },
+    "70": {
+        "name": "Platine",
+        "emoji": "🏅"
+    },
+    "71": {
+        "name": "Ocre",
+        "emoji": "🟧"
+    },
+    "72": {
+        "name": "Titane",
+        "emoji": "⚙️"
+    },
+    "73": {
+        "name": "Fonte",
+        "emoji": "🧱"
+    },
+    "74": {
+        "name": "Sienne",
+        "emoji": "🟤"
+    },
+    "75": {
+        "name": "Albâtre",
+        "emoji": "⚪"
+    },
+    "76": {
+        "name": "Zinc",
+        "emoji": "⚙️"
+    },
+    "77": {
+        "name": "Silice",
+        "emoji": "🏖️"
+    },
+    "78": {
+        "name": "Ébène",
+        "emoji": "⚫"
+    },
+    "79": {
+        "name": "Bambou",
+        "emoji": "🎍"
+    },
+    "80": {
+        "name": "Chêne",
+        "emoji": "🌳"
+    },
+    "81": {
+        "name": "Cornaline",
+        "emoji": "🔴"
+    },
+    "82": {
+        "name": "Grenat",
+        "emoji": "🔴"
+    },
+    "83": {
+        "name": "Vanille",
+        "emoji": "🍨"
+    },
+    "84": {
+        "name": "Iris",
+        "emoji": "🌸"
+    },
+    "85": {
+        "name": "Uranium",
+        "emoji": "☢️"
+    },
+    "86": {
+        "name": "Jaspe",
+        "emoji": "🟤"
+    },
+    "87": {
+        "name": "Psilocybe",
+        "emoji": "🍄"
+    },
+    "88": {
+        "name": "Pehuen",
+        "emoji": "🌲"
+    },
+    "89": {
+        "name": "Onyx",
+        "emoji": "⚫"
+    },
+    "90": {
+        "name": "Granite",
+        "emoji": "🪨"
+    },
+    "91": {
+        "name": "Héliodore",
+        "emoji": "🟡"
+    },
+    "92": {
+        "name": "Lys",
+        "emoji": "🌺"
+    },
+    "93": {
+        "name": "Lapis-lazuli",
+        "emoji": "🔵"
+    },
+    "94": {
+        "name": "Péridot",
+        "emoji": "💚"
+    },
+    "95": {
+        "name": "Adansonia",
+        "emoji": "🌳"
+    },
+    "96": {
+        "name": "Potasse",
+        "emoji": "🧪"
+    },
+    "97": {
+        "name": "Tourmaline noire",
+        "emoji": "⚫"
+    },
+    "98": {
+        "name": "If",
+        "emoji": "🌲"
+    },
+    "99": {
+        "name": "Araucaria",
+        "emoji": "🌲"
+    },
+    "100": {
+        "name": "Eau",
+        "emoji": "💧"
+    }
 }

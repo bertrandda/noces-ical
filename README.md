@@ -8,7 +8,7 @@ A modern React application that allows you to easily generate a calendar file (.
 - **Date Selector**: Easily choose your wedding date
 - **Automatic Generation**: Automatically creates 100 anniversary events with special names (ex: 1 year - noces de coton, 50 years - noces d'or...)
 - **Direct Download**: Download the .ics file
-- **Compatible**: Works with all calendar applications (Google Calendar, Outlook, Apple Calendar, Nextcloud, etc.)
+- **Compatible**: Works with all calendar applications (Google Calendar, Outlook, Apple Calendar, Nextcloud, etc...)
 
 ## 🚀 Installation and Usage
 
