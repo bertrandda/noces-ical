@@ -1,402 +1,502 @@
 {
     "1": {
         "name": "Coton",
+        "determinant": "de ",
         "emoji": "🧵"
     },
     "2": {
         "name": "Cuir",
+        "determinant": "de ",
         "emoji": "👞"
     },
     "3": {
         "name": "Froment",
+        "determinant": "de ",
         "emoji": "🌾"
     },
     "4": {
         "name": "Cire",
+        "determinant": "de ",
         "emoji": "🕯️"
     },
     "5": {
         "name": "Bois",
+        "determinant": "de ",
         "emoji": "🌳"
     },
     "6": {
         "name": "Chypre",
+        "determinant": "de ",
         "emoji": "🌿"
     },
     "7": {
         "name": "Laine",
+        "determinant": "de ",
         "emoji": "🧶"
     },
     "8": {
         "name": "Coquelicot",
+        "determinant": "de ",
         "emoji": "🌺"
     },
     "9": {
         "name": "Faïence",
+        "determinant": "de ",
         "emoji": "🏺"
     },
     "10": {
         "name": "Étain",
+        "determinant": "d'",
         "emoji": "🥫"
     },
     "11": {
         "name": "Corail",
+        "determinant": "de ",
         "emoji": "🪸"
     },
     "12": {
         "name": "Soie",
+        "determinant": "de ",
         "emoji": "🧣"
     },
     "13": {
         "name": "Muguet",
+        "determinant": "de ",
         "emoji": "🌼"
     },
     "14": {
         "name": "Plomb",
+        "determinant": "de ",
         "emoji": "⚙️"
     },
     "15": {
         "name": "Cristal",
+        "determinant": "de ",
         "emoji": "💎"
     },
     "16": {
         "name": "Saphir",
+        "determinant": "de ",
         "emoji": "💙"
     },
     "17": {
         "name": "Rose",
+        "determinant": "de ",
         "emoji": "🌹"
     },
     "18": {
         "name": "Turquoise",
+        "determinant": "de ",
         "emoji": "💠"
     },
     "19": {
         "name": "Cretonne",
+        "determinant": "de ",
         "emoji": "🧵"
     },
     "20": {
         "name": "Porcelaine",
+        "determinant": "de ",
         "emoji": "🍽️"
     },
     "21": {
         "name": "Opale",
+        "determinant": "d'",
         "emoji": "🔮"
     },
     "22": {
         "name": "Bronze",
+        "determinant": "de ",
         "emoji": "🥉"
     },
     "23": {
         "name": "Béryl",
+        "determinant": "de ",
         "emoji": "🟢"
     },
     "24": {
         "name": "Satin",
+        "determinant": "de ",
         "emoji": "🧵"
     },
     "25": {
         "name": "Argent",
+        "determinant": "d'",
         "emoji": "🥈"
     },
     "26": {
         "name": "Jade",
+        "determinant": "de ",
         "emoji": "🟩"
     },
     "27": {
         "name": "Acajou",
+        "determinant": "d'",
         "emoji": "🪵"
     },
     "28": {
         "name": "Nickel",
+        "determinant": "de ",
         "emoji": "⚙️"
     },
     "29": {
         "name": "Velours",
+        "determinant": "de ",
         "emoji": "🧵"
     },
     "30": {
         "name": "Perle",
+        "determinant": "de ",
         "emoji": "🦪"
     },
     "31": {
         "name": "Basane",
+        "determinant": "de ",
         "emoji": "🐑"
     },
     "32": {
         "name": "Cuivre",
+        "determinant": "de ",
         "emoji": "🟠"
     },
     "33": {
         "name": "Porphyre",
+        "determinant": "de ",
         "emoji": "🪨"
     },
     "34": {
         "name": "Ambre",
+        "determinant": "d'",
         "emoji": "🟠"
     },
     "35": {
         "name": "Rubis",
+        "determinant": "de ",
         "emoji": "💎"
     },
     "36": {
         "name": "Mousseline",
+        "determinant": "de ",
         "emoji": "🧵"
     },
     "37": {
         "name": "Papier",
+        "determinant": "de ",
         "emoji": "📝"
     },
     "38": {
         "name": "Mercure",
+        "determinant": "de ",
         "emoji": "☿"
     },
     "39": {
         "name": "Crêpe",
+        "determinant": "de ",
         "emoji": "🥞"
     },
     "40": {
         "name": "Émeraude",
+        "determinant": "d'",
         "emoji": "💚"
     },
     "41": {
         "name": "Fer",
+        "determinant": "de ",
         "emoji": "🛠️"
     },
     "42": {
         "name": "Nacre",
+        "determinant": "de ",
         "emoji": "🐚"
     },
     "43": {
         "name": "Flanelle",
+        "determinant": "de ",
         "emoji": "🧣"
     },
     "44": {
         "name": "Topaze",
+        "determinant": "de ",
         "emoji": "💛"
     },
     "45": {
         "name": "Vermeil",
+        "determinant": "de ",
         "emoji": "🪙"
     },
     "46": {
         "name": "Lavande",
+        "determinant": "de ",
         "emoji": "💜"
     },
     "47": {
         "name": "Cachemire",
+        "determinant": "de ",
         "emoji": "🧣"
     },
     "48": {
         "name": "Améthyste",
+        "determinant": "d'",
         "emoji": "💜"
     },
     "49": {
         "name": "Cèdre",
+        "determinant": "de ",
         "emoji": "🌲"
     },
     "50": {
         "name": "Or",
+        "determinant": "d'",
         "emoji": "🥇"
     },
     "51": {
         "name": "Camélia",
+        "determinant": "de ",
         "emoji": "🌺"
     },
     "52": {
         "name": "Tourmaline",
+        "determinant": "de ",
         "emoji": "💠"
     },
     "53": {
         "name": "Merisier",
+        "determinant": "de ",
         "emoji": "🍒"
     },
     "54": {
         "name": "Zibeline",
+        "determinant": "de ",
         "emoji": "🐻"
     },
     "55": {
         "name": "Orchidée",
+        "determinant": "d'",
         "emoji": "🪻"
     },
     "56": {
         "name": "Buis",
+        "determinant": "de ",
         "emoji": "🌿"
     },
     "57": {
         "name": "Azalée",
+        "determinant": "d'",
         "emoji": "🌸"
     },
     "58": {
         "name": "Érable",
+        "determinant": "d'",
         "emoji": "🍁"
     },
     "59": {
         "name": "Olivier",
+        "determinant": "d'",
         "emoji": "🌿"
     },
     "60": {
         "name": "Diamant",
+        "determinant": "de ",
         "emoji": "💎"
     },
     "61": {
         "name": "Platane",
+        "determinant": "de ",
         "emoji": "🌳"
     },
     "62": {
         "name": "Ivoire",
+        "determinant": "d'",
         "emoji": "🐘"
     },
     "63": {
         "name": "Lilas",
+        "determinant": "de ",
         "emoji": "💜"
     },
     "64": {
         "name": "Astrakan",
+        "determinant": "d'",
         "emoji": "🐑"
     },
     "65": {
         "name": "Palissandre",
+        "determinant": "de ",
         "emoji": "🪵"
     },
     "66": {
         "name": "Jasmin",
+        "determinant": "de ",
         "emoji": "🌼"
     },
     "67": {
         "name": "Chinchilla",
+        "determinant": "de ",
         "emoji": "🐭"
     },
     "68": {
         "name": "Granit",
+        "determinant": "de ",
         "emoji": "🪨"
     },
     "69": {
         "name": "Mélèze",
+        "determinant": "de ",
         "emoji": "🌲"
     },
     "70": {
         "name": "Platine",
+        "determinant": "de ",
         "emoji": "🏅"
     },
     "71": {
         "name": "Ocre",
+        "determinant": "d'",
         "emoji": "🟧"
     },
     "72": {
         "name": "Titane",
+        "determinant": "de ",
         "emoji": "⚙️"
     },
     "73": {
         "name": "Fonte",
+        "determinant": "de ",
         "emoji": "🧱"
     },
     "74": {
         "name": "Sienne",
+        "determinant": "de ",
         "emoji": "🟤"
     },
     "75": {
         "name": "Albâtre",
+        "determinant": "d'",
         "emoji": "⚪"
     },
     "76": {
         "name": "Zinc",
+        "determinant": "de ",
         "emoji": "⚙️"
     },
     "77": {
         "name": "Silice",
+        "determinant": "de ",
         "emoji": "🏖️"
     },
     "78": {
         "name": "Ébène",
+        "determinant": "d'",
         "emoji": "⚫"
     },
     "79": {
         "name": "Bambou",
+        "determinant": "de ",
         "emoji": "🎍"
     },
     "80": {
         "name": "Chêne",
+        "determinant": "de ",
         "emoji": "🌳"
     },
     "81": {
         "name": "Cornaline",
+        "determinant": "de ",
         "emoji": "🔴"
     },
     "82": {
         "name": "Grenat",
+        "determinant": "de ",
         "emoji": "🔴"
     },
     "83": {
         "name": "Vanille",
+        "determinant": "de ",
         "emoji": "🍨"
     },
     "84": {
         "name": "Iris",
+        "determinant": "d'",
         "emoji": "🌸"
     },
     "85": {
         "name": "Uranium",
+        "determinant": "d'",
         "emoji": "☢️"
     },
     "86": {
         "name": "Jaspe",
+        "determinant": "de ",
         "emoji": "🟤"
     },
     "87": {
         "name": "Psilocybe",
+        "determinant": "de ",
         "emoji": "🍄"
     },
     "88": {
         "name": "Pehuen",
+        "determinant": "de ",
         "emoji": "🌲"
     },
     "89": {
         "name": "Onyx",
+        "determinant": "d'",
         "emoji": "⚫"
     },
     "90": {
         "name": "Granite",
+        "determinant": "de ",
         "emoji": "🪨"
     },
     "91": {
         "name": "Héliodore",
+        "determinant": "d'",
         "emoji": "🟡"
     },
     "92": {
         "name": "Lys",
+        "determinant": "de ",
         "emoji": "🌺"
     },
     "93": {
         "name": "Lapis-lazuli",
+        "determinant": "de ",
         "emoji": "🔵"
     },
     "94": {
         "name": "Péridot",
+        "determinant": "de ",
         "emoji": "💚"
     },
     "95": {
         "name": "Adansonia",
+        "determinant": "d'",
         "emoji": "🌳"
     },
     "96": {
         "name": "Potasse",
+        "determinant": "de ",
         "emoji": "🧪"
     },
     "97": {
         "name": "Tourmaline noire",
+        "determinant": "de ",
         "emoji": "⚫"
     },
     "98": {
         "name": "If",
+        "determinant": "d'",
         "emoji": "🌲"
     },
     "99": {
         "name": "Araucaria",
+        "determinant": "d'",
         "emoji": "🌲"
     },
     "100": {
         "name": "Eau",
+        "determinant": "d'",
         "emoji": "💧"
     }
 }

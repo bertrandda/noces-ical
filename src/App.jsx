@@ -19,8 +19,8 @@ function App() {
       const baseDate = new Date(selectedDate)
 
       const events = Object.keys(names).map(age => ({
-        title: `${age}${Number(age) > 1 ? 'ème' : 'er'} Anniversaire de mariage - Noces de ${names[age].name} ${names[age].emoji}`,
-        description: `Anniversaire des ${age} ${Number(age) > 1 ? 'ans' : 'an'} de mariage. Noces de ${names[age].name} ${names[age].emoji}`,
+        title: `${age}${Number(age) > 1 ? 'ème' : 'er'} Anniversaire de mariage - Noces ${names[age].determinant}${names[age].name} ${names[age].emoji}`,
+        description: `Anniversaire des ${age} ${Number(age) > 1 ? 'ans' : 'an'} de mariage. Noces ${names[age].determinant}${names[age].name} ${names[age].emoji}`,
         start: [
           baseDate.getFullYear() + Number(age),
           baseDate.getMonth() + 1,
@@ -94,7 +94,7 @@ function App() {
           <h3>📋 Événements inclus</h3>
           <ul className="events-list">
             {Object.keys(names).map(age => (
-              <li key={age}>{age}{Number(age) > 1 ? 'ème' : 'er'} Anniversaire - Noces de {names[age].name} {names[age].emoji}</li>
+              <li key={age}>{age}{Number(age) > 1 ? 'ème' : 'er'} Anniversaire - Noces {names[age].determinant}{names[age].name} {names[age].emoji}</li>
             ))}
           </ul>
         </div>
